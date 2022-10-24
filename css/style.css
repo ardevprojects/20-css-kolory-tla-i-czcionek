@@ -1,0 +1,30 @@
+body {
+    background-color:azure;
+}
+h1 {
+    color: green;
+}
+h2 {
+    color:blueviolet
+}
+p {
+    color:chocolate;
+}
+.p2 {
+    color: crimson;
+}
+#item-1 {
+    color: darkcyan;
+}
+#item-2 {
+    color: darkgrey;
+}
+#item-3 {
+    color: darkred;
+}
+#item-4 {
+    color: yellowgreen;
+}
+#item-5 {
+    color: blue;
+}
